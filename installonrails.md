@@ -15,5 +15,5 @@
 
 ** Resources: ** 
 
-https://github.com/seyhunak/twitter-bootstrap-rails - this is where the steps are found also includes activated sass functionality steps 
-http://api.rubyonrails.org/classes/ActionView/Layouts.html
+* https://github.com/seyhunak/twitter-bootstrap-rails - this is where the steps are found also includes activated sass functionality steps 
+* http://api.rubyonrails.org/classes/ActionView/Layouts.html
