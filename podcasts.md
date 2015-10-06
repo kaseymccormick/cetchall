@@ -12,6 +12,8 @@ in no specific order yet. **podcast title and link if found one** short summary 
 9. [**Tentative**] (http://tentative.fm/)- Tentative is a podcast about digital product design, hosted by thoughtbot designers Reda Lemeden & Kyle Fiedler. -_OCS Slack_ 
 10. (http://www.mylifeforthecode.com/from-fearful-to-fearless-through-tdd-with-darren-cauthon/)
 11. (http://reactive.audio/)
+12. [**CodePen Radio**] (https://blog.codepen.io/radio/)- Co-founders of CodePen talk about the ins and outs of running a web software business.[_A curated list of awesome lists_](https://github.com/sindresorhus/awesome)
+13. [**CodeNewbie Podcast**] (http://www.codenewbie.org/podcast) - Stories from people on their coding journey. [_A curated list of awesome lists_](https://github.com/sindresorhus/awesome)
 
 
 ###Source shortcodes###
