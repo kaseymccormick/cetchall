@@ -10,6 +10,9 @@ in no specific order yet. **podcast title and link if found one** short summary 
 7. [**Build Phase**] (http://buildphase.fm/)- Build Phase is a weekly technical podcast discussing iOS development and design. Hosted by iOS developers Mark Adams and Gordon Fontenot; they discuss code, design, and creating great iOS apps. -_OCS Slack_ 
 8. [**Giant Robots**] (http://giantrobots.fm/)- The Giant Robots Smashing into Other Giant Robots podcast is a weekly technical podcast discussing development, design, and the business of great products. Hosted by Ben Orenstein, who is joined each week by developers and designers from thoughtbot and beyond. -_OCS Slack_ 
 9. [**Tentative**] (http://tentative.fm/)- Tentative is a podcast about digital product design, hosted by thoughtbot designers Reda Lemeden & Kyle Fiedler. -_OCS Slack_ 
+(http://www.mylifeforthecode.com/from-fearful-to-fearless-through-tdd-with-darren-cauthon/)
+(http://reactive.audio/)
+
 
 ###Source shortcodes###
 MWDC === Midwest Dev Chat
