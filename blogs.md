@@ -6,7 +6,7 @@ http://kartar.net/about/
 
 
 ## Design
-https://www.awwwards.com/365-25-a-journal-experimental-design.html
+* https://www.awwwards.com/365-25-a-journal-experimental-design.html
 https://www.slideshare.net/runger/big-design-conference-2011-its-a-good-time-to-be-you
 https://bigdesignevents.com/
 https://www.fastcompany.com/1671588/turning-the-absurdity-and-hilarity-of-everday-life-into-charts#1
