@@ -7,9 +7,13 @@ http://kartar.net/about/
 
 ## Design
 * https://www.awwwards.com/365-25-a-journal-experimental-design.html
+
 https://www.slideshare.net/runger/big-design-conference-2011-its-a-good-time-to-be-you
+
 https://bigdesignevents.com/
+
 https://www.fastcompany.com/1671588/turning-the-absurdity-and-hilarity-of-everday-life-into-charts#1
+
 https://www.fastcompany.com/1672303/infographic-an-amazing-map-of-every-college-mascot#3
 https://blog.marvelapp.com/frictionless-design-the-friction-fiction/?utm_source=Marvel+Email+Updates&utm_campaign=d6d11ed4ae-Weekly_roundup_31_08_16&utm_medium=email&utm_term=0_f0c2e2c157-d6d11ed4ae-427415957
 https://blog.marvelapp.com/incremental-ux/?utm_source=Marvel+Email+Updates&utm_campaign=d6d11ed4ae-Weekly_roundup_31_08_16&utm_medium=email&utm_term=0_f0c2e2c157-d6d11ed4ae-427415957
