@@ -6,7 +6,7 @@ http://kartar.net/about/
 
 
 ## Design
-* https://www.awwwards.com/365-25-a-journal-experimental-design.html
+* [aawards](https://www.awwwards.com/365-25-a-journal-experimental-design.html)
 
 https://www.slideshare.net/runger/big-design-conference-2011-its-a-good-time-to-be-you
 
@@ -36,6 +36,10 @@ https://placeit.net/
 
 _could be no longer around_
 http://mentor.im/
+
+### A/B testing and heatmaps
+https://vwo.com/
+https://www.usertesting.com/
 
 ## Other
 
