@@ -9,3 +9,18 @@ https://code.visualstudio.com/
 ## Emmet
 https://emmet.io/ (Is VS code extention also)
 
+## Slack
+https://slack.com/downloads/mac
+
+## Project management (depends personal or company computer
+https://trello.com/
+https://app.asana.com/
+
+## Chrome
+https://www.google.com/chrome/
+
+### Extentions
+wapalizer
+grid ruler
+user css
+nimbus screenshot
