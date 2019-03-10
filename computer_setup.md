@@ -1,4 +1,4 @@
-When it's time for a new computer it's easier to follow a checklist then try and remember tools used to. This is my computer setup for future knowledge. Better to have it and not need it than vise versa.
+When it's time for a new computer it's easier to follow a checklist then try and remember tools used to. This is my computer setup for future knowledge. Better to have it and not need it than vise versa. Allong with common addons for diferent language projects
 
 ## Oh my Zsh
 `$ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
@@ -25,3 +25,18 @@ wapalizer
 grid ruler
 user css
 nimbus screenshot
+
+# package managers
+https://brew.sh/
+https://nodejs.org/en/ (get node and npm)
+
+# angular 
+https://cli.angular.io/
+
+– `npm install -g @angular/cli`
+
+## vs code extentions
+https://marketplace.visualstudio.com/items?itemName=shalinjames.vscode-nebular-snippets
+
+## other addons
+`npm install --save @angular/material @angular/cdk @angular/animations`
