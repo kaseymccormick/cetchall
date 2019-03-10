@@ -14,6 +14,7 @@ https://slack.com/downloads/mac
 
 ## Project management (depends personal or company computer
 https://trello.com/
+
 https://app.asana.com/
 
 ## Chrome
