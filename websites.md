@@ -13,15 +13,15 @@ https://frontendmasters.com/
 https://www.udemy.com/
 https://teamtreehouse.com/
 
+
 # specific concept or language
+
 
 ## RXJS and state management.
 https://rxmarbles.com/
 
 ## Angular
 https://github.com/avatsaev/angular-learning-resources
-- Goal to fork, and follow through the steps. Fork -> 
-
 https://github.com/PatrickJS/awesome-angular#readme
 
 ## Machine Learning
