@@ -6,8 +6,12 @@ When it's time for a new computer it's easier to follow a checklist then try and
 ## Visual studio code
 https://code.visualstudio.com/
 
-## Emmet
-https://emmet.io/ (Is VS code extention also)
+## VS Code extentions
+https://emmet.io/ (Is VS code extention also) 
+
+## Git
+ `git --version`
+set up ssh -> https://help.github.com/en/articles/checking-for-existing-ssh-keys
 
 ## Slack
 https://slack.com/downloads/mac
