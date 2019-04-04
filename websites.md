@@ -22,9 +22,13 @@ https://teamtreehouse.com/
 ## RXJS and state management.
 https://rxmarbles.com/
 
+## Typescript
+https://bitovi.github.io/university/typescript.html
+
 ## Angular
 https://github.com/avatsaev/angular-learning-resources
 https://github.com/PatrickJS/awesome-angular#readme
+https://bitovi.github.io/university/angular.html
 
 ## Machine Learning
 https://github.com/josephmisiti/awesome-machine-learning
