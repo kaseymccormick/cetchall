@@ -1,7 +1,7 @@
 ## Dev
 http://kartar.net/about/ 
 >**James Turnbull**
->I am the VP of Engineering at Kickstarter. I was previously VP of Services at Docker. Prior to that I was VP of Engineering at Venmo and VP Tech Operations for Puppet Labs. I have also published seven technical books.
+>I am a CTO in residence at Microsoft. I was previously a founder and CTO at Empatico, CTO at Kickstarter, VP of Services at Docker, VP of Engineering at Venmo, and VP Tech Operations for Puppet Labs. I have also published eleven technical books.
 
 ### Angular
 https://blog.nrwl.io/managing-state-in-angular-applications-22b75ef5625f
